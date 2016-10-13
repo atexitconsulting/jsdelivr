@@ -1,7 +1,7 @@
 {
-  "packageManager": "<github|npm|bower>",
-  "name": "<package-name>",
-  "repo": "<user>/<repo>",
+  "packageManager": "github",
+  "name": "atexitconsulting",
+  "repo": "atexitconsulting/jsdelivr>",
   "files": {
     "basePath": "<dir>",
     "include": ["<glob-string-1>", "<glob-string-2>"],
